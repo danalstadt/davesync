@@ -31,13 +31,13 @@ What you should be using. Accepts a Promise from a non-davesynchronous library a
 
 ```js
 davesync.unpromisify(SomeStupidThing.somethingThatRetunsAPromise(), function (err, res) {
-    //FOO
+    //Promises are meant to be broken
 });
 ```
 
 ## Run tests
 
-`npm test --davesync_license=YOUR_LICENSE_KEY`
+`npm test -- --davesync_license=YOUR_LICENSE_KEY`
 
 
 
