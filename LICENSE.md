@@ -1,1 +1,1 @@
-Please contact davesync-sales@mail.ru for licensing info.
+Copyright 2018. All Rights Reserved. Please contact davesync-sales@mail.ru for licensing info.

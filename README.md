@@ -2,7 +2,7 @@
 
 Davesync is the NPM module your mother warned you about. Davesync isn't *an* antipattern, it's *the* antipattern.
 
-Contact [davesync-sales@mail.ru](mailto:git@github.com:danalstadt/davesync.git) for a license.
+Contact <davesync-sales@mail.ru> for a license.
 
 ## Usage
 
