@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Davesync makes the asynchronous synchrounous.",
   "main": "davesync.js",
+  "repository": "github:danalstadt/davesync",
   "scripts": {
     "test": "node test.js"
   },
