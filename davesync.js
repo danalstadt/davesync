@@ -5,8 +5,9 @@ const Q = require('q');
 const RSVP = require('rsvp');
 const async = require('async');
 const colors = require('colors');
+const path = require('path');
 
-const pubKey = fs.readFileSync('./davesync.key.pub');
+const pubKey = fs.readFileSync(path.join(__dirname, 'davesync.key.pub'));
 
 //some CS prof told me that magic numbers should be defined as a constant.
 const MAGIC_NUMBER = 666;
