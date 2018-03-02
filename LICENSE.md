@@ -1,0 +1,1 @@
+Please contact davesync-sales@mail.ru for licensing info.
