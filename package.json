@@ -1,6 +1,6 @@
 {
   "name": "davesync",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Davesync makes the asynchronous synchronous.",
   "main": "davesync.js",
   "repository": "github:danalstadt/davesync",
