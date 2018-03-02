@@ -1,7 +1,7 @@
 {
   "name": "davesync",
   "version": "0.0.1",
-  "description": "Davesync makes the asynchronous synchrounous.",
+  "description": "Davesync makes the asynchronous synchronous.",
   "main": "davesync.js",
   "scripts": {
     "test": "node test.js"
